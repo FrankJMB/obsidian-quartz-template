@@ -1,0 +1,1 @@
+Dit is de content van internal link 1
