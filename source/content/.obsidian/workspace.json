@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
+                "file": "internal link 1.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "internal link 1"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "internal link 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Terugverwijzingen voor index"
+              "title": "Terugverwijzingen voor internal link 1"
             }
           },
           {
@@ -171,8 +171,8 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "internal link 1.md",
     "index.md",
+    "internal link 1.md",
     "category-folder/Some note.md",
     "category-folder/index.md",
     "category-folder"
